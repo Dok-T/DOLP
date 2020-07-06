@@ -1,0 +1,23 @@
+﻿<Window x:Name="Main" x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DokT_OS_Live_Patcher_Utility"
+        mc:Ignorable="d"
+        Title="DokT OS Live Patcher Utility" Height="281.111" Width="538" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+    <Grid Margin="0,0,-8,-91">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="289*"/>
+            <ColumnDefinition Width="51*"/>
+            <ColumnDefinition Width="200*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+
+
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="115" TextWrapping="Wrap" Text="Bienvenue dans l'utilitaire DokT OS Live Patcher! Ce logiciel va vous permettre d'appliquer des correctifs de bug et de sécurité sur votre ordinateur exécutant DokT OS! Il va ainsi vous permettre de ne pas à avoir à réinstaller Windows et de bénéficier des mises à jour!&#xA;&#xA;IMPORTANT: Cet utilitaire ne permet pas d'appliquer des patch concernant l'ISO d'installation de DokT OS ni de modifier/intégrer des pilotes! Il est conseillé d'utiliser une ISO et de réinstaller!  " VerticalAlignment="Top" Width="497" Margin="10,20,0,0" AllowDrop="False" Focusable="False" AcceptsTab="True" AcceptsReturn="True" IsReadOnly="True" IsUndoEnabled="False" Grid.ColumnSpan="3" BorderThickness="0"/>
+        <CheckBox x:Name="checkBox" Content="J'ai compris!&#xD;&#xA;" Margin="89,171,90.222,130"/>
+        <Button x:Name="button" Content="GOGOGO!" Margin="236,156,85,0" VerticalAlignment="Top" Height="48" Grid.ColumnSpan="3"/>
+
+    </Grid>
+</Window>
