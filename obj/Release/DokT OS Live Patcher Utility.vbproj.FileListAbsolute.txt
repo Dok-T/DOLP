@@ -1,0 +1,19 @@
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\bin\Release\DokT OS Live Patcher Utility.exe.config
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\bin\Release\DokT OS Live Patcher Utility.exe
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\bin\Release\DokT OS Live Patcher Utility.pdb
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\bin\Release\DokT OS Live Patcher Utility.xml
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\obj\Release\MainWindow.g.vb
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\obj\Release\UserControl2.g.vb
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\obj\Release\Window1.g.vb
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\obj\Release\Application.g.vb
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\obj\Release\DokT OS Live Patcher Utility_MarkupCompile.cache
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\obj\Release\DokT OS Live Patcher Utility_MarkupCompile.lref
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\obj\Release\MainWindow.baml
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\obj\Release\UserControl2.baml
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\obj\Release\Window1.baml
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\obj\Release\DokT OS Live Patcher Utility.g.resources
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\obj\Release\DokT_OS_Live_Patcher_Utility.Resources.resources
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\obj\Release\DokT OS Live Patcher Utility.vbproj.GenerateResource.Cache
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\obj\Release\DokT OS Live Patcher Utility.exe
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\obj\Release\DokT OS Live Patcher Utility.xml
+C:\Users\Tristan\Documents\Visual Studio 2015\Projects\DokT OS Live Patcher Utility\DokT OS Live Patcher Utility\obj\Release\DokT OS Live Patcher Utility.pdb
